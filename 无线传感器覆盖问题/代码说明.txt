@@ -1,0 +1,7 @@
+main.m 主程序
+fitness.m 计算适应度函数
+check_targets.m 检查目标是否被3个传感器感知
+crossover.m 交叉
+mutate.m 变异
+tournament_selection.m 轮盘赌选择
+distirbute.m 基于聚类的传感器分布
